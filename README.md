@@ -2,9 +2,9 @@
 
 ## Overview
 
-The Handball Referee Management System is a web-based platform designed to automate and optimize the process of assigning referees to handball matches.
+The Handball Referee Management System is a APP-based platform designed to automate and optimize the process of assigning referees to handball matches.
 
-Traditional scheduling methods using Google Forms and Excel spreadsheets often lead to missed assignments, unfair workload distribution, long travel distances, and communication delays. This system provides a centralized solution that streamlines referee management, match scheduling, assignment generation, and notifications.
+Traditional scheduling methods using **Google Forms** and **Excel spreadsheets** often lead to missed assignments, unfair workload distribution, long travel distances, and communication delays. This system provides a centralized solution that streamlines referee management, match scheduling, assignment generation, and notifications.
 
 ---
 
@@ -27,7 +27,7 @@ The goal of this project is to automate and optimize these operations.
 
 ### Referee Management
 - Create and manage referee profiles.
-- Store referee levels, ratings, and contact information.
+- Store referee levels, and contact information.
 - Track referee history and statistics.
 
 ### Availability Management
